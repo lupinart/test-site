@@ -1,0 +1,14 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "innovue_test",
+    "description": "",
+    "home_page_url": "https://lupinart.github.io/test-site",
+    "feed_url": "https://lupinart.github.io/test-site/feed.json",
+    "user_comment": "",
+    "icon": "https://lupinart.github.io/test-site/media/website/logo_Bai_Ying-Wen.png",
+    "author": {
+        "name": "lupin"
+    },
+    "items": [
+    ]
+}
